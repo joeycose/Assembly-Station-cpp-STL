@@ -1,16 +1,10 @@
-# Assembly-Station-cpp-STL
+# Intro - Assembly Station
  Developing a simulation of an assembly line with any number of stations using C++ and STL methods. 
- 
- 
- 
  
  
  # Visual 
  ![image](https://user-images.githubusercontent.com/85801475/222190210-0cd9222f-b85b-44e7-9299-976778c3c68b.png)
 
- 
- 
- 
  
  # Summary
  
