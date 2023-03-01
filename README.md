@@ -2,6 +2,16 @@
  Developing a simulation of an assembly line with any number of stations using C++ and STL methods. 
  
  
+ 
+ 
+ 
+ # Visual 
+ ![image](https://user-images.githubusercontent.com/85801475/222190210-0cd9222f-b85b-44e7-9299-976778c3c68b.png)
+
+ 
+ 
+ 
+ 
  # Summary
  
 The solution involves an assembly line consisting of several workstations, each holding a set of specific stock items. A line manager moves customer orders along the line, filling orders at each station as requested. Each station processes a queue of orders by filling the next order in the queue if that order requests the station's item and that item is in stock. Once all orders have been processed, the line manager lists the completed and incomplete orders due to a lack of inventory at one or more stations.
