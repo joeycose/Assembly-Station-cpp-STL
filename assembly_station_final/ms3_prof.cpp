@@ -1,8 +1,3 @@
-// Final Project
-// Milestone 3
-// ms3_prof.cpp
-// Winter 2021
-// Chris Szalwinski
 
 #include <iostream>
 #include <fstream>
